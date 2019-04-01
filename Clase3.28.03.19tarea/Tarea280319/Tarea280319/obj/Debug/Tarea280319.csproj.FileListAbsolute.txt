@@ -1,0 +1,10 @@
+C:\Users\Silvia\Desktop\Clase3.28.03.19tarea\Tarea280319\Tarea280319\bin\Debug\Tarea280319.exe.config
+C:\Users\Silvia\Desktop\Clase3.28.03.19tarea\Tarea280319\Tarea280319\bin\Debug\Tarea280319.exe
+C:\Users\Silvia\Desktop\Clase3.28.03.19tarea\Tarea280319\Tarea280319\bin\Debug\Tarea280319.pdb
+C:\Users\Silvia\Desktop\Clase3.28.03.19tarea\Tarea280319\Tarea280319\obj\Debug\Tarea280319.csprojResolveAssemblyReference.cache
+C:\Users\Silvia\Desktop\Clase3.28.03.19tarea\Tarea280319\Tarea280319\obj\Debug\Tarea280319.Form1.resources
+C:\Users\Silvia\Desktop\Clase3.28.03.19tarea\Tarea280319\Tarea280319\obj\Debug\Tarea280319.Properties.Resources.resources
+C:\Users\Silvia\Desktop\Clase3.28.03.19tarea\Tarea280319\Tarea280319\obj\Debug\Tarea280319.csproj.GenerateResource.Cache
+C:\Users\Silvia\Desktop\Clase3.28.03.19tarea\Tarea280319\Tarea280319\obj\Debug\Tarea280319.csproj.CoreCompileInputs.cache
+C:\Users\Silvia\Desktop\Clase3.28.03.19tarea\Tarea280319\Tarea280319\obj\Debug\Tarea280319.exe
+C:\Users\Silvia\Desktop\Clase3.28.03.19tarea\Tarea280319\Tarea280319\obj\Debug\Tarea280319.pdb
